@@ -1,0 +1,167 @@
+1,Pinduoduo,Eastern China,China,Shanghai,Internet
+2,Unilever,Europe,Netherlands/United Kingdom,NULL,Foodstuff
+3,Deutsche Bank,Europe,Germany,NULL,Bank
+4,Albertson's,America,United States,NULL,Retail
+5,Santander Central Hispano Group,Europe,Spain,NULL,Bank
+6,Koninklijke Ahold,Europe,Netherlands,NULL,Retail
+7,Kroger,America,United States,NULL,Retail
+8,Tencent,Southern China,China,Shenzhen,Internet
+9,Mitsubishi Motors,Asia,Japan,NULL,Car
+10,BNP Paribas,Europe,France,NULL,Bank
+11,HSBC Holdings,Europe,United Kingdom,NULL,Bank
+12,Delphi Automotive Systems,America,United States,NULL,Auto parts
+13,Allianz,Europe,Germany,NULL,Insurance
+14,Munich Re Group,Europe,Germany,NULL,Insurance
+15,Chengdu AIG,Southwestern China,China,Chengdu,Military
+16,Home Depot,America,United States,NULL,Retail
+17,Robert Bosch,Europe,Germany,NULL,Electrical and electronic
+18,Cardinal Health,America,United States,NULL,Pharmaceutical
+19,BASF,Europe,Germany,NULL,Chemistry
+20,Meituan,Northern China,China,Beijing,Internet
+21,Target,America,United States,NULL,Retail
+22,Agricultural Bank of China,Northern China,China,Beijing,Bank
+23,CGNU,Europe,United Kingdom,NULL,Insurance
+24,Enron,America,United States,NULL,Energy
+25,Tesco,Europe,United Kingdom,NULL,Retail
+26,Industrial and Commercial Bank of China,Northern China,China,Beijing,Bank
+27,Peugeot,Europe,France,NULL,Car
+28,Alcatel,Europe,France,NULL,Electrical and electronic
+29,Dell Computer,America,United States,NULL,Computer
+30,Safeway,America,United States,NULL,Retail
+31,Nissho Iwai,Asia,Japan,NULL,Diversify
+32,Royal Philips Electronics,Europe,Netherlands,NULL,Electrical and electronic
+33,China North Industries Group Corporation,Northern China,China,Beijing,Military
+34,Johnson & Johnson,America,United States,NULL,Pharmaceutical
+35,Samsung Electronics,Asia,Korea,NULL,Electrical and electronic
+36,Nestlиж,Europe,Switzerland,NULL,Foodstuff
+37,Hewlett-Packard,America,United States,NULL,Computer
+38,ABN AMRO Holding,Europe,Netherlands,NULL,Bank
+39,Honda Motor,Asia,Japan,NULL,Car
+40,NEC,Asia,Japan,NULL,Electrical and electronic
+41,J.C. Penney,America,United States,NULL,Retail
+42,Berkshire Hathaway,America,United States,NULL,Insurance
+43,Duke Energy,America,United States,NULL,Electricity gas
+44,Goldman Sachs Group,America,United States,NULL,Securities brokerage
+45,Pfizer,America,United States,NULL,Pharmaceutical
+46,Fannie Mae,America,United States,NULL,Finance
+47,Dynegy,America,United States,NULL,Energy
+48,Exxon Mobil,America,United States,NULL,Oil refining
+49,Rwe Group,Europe,Germany,NULL,Electricity gas
+50,HypoVereinsbank,Europe,Germany,NULL,Bank
+51,Morgan Stanley Dean Witter,America,United States,NULL,Securities brokerage
+52,Total Fina Elf,Europe,France,NULL,Oil refining
+53,Procter & Gamble,America,United States,NULL,Household chemicals
+54,Reliant Energy,America,United States,NULL,Electricity and gas utilities
+55,DaimlerChrysler,Europe,Germany,NULL,Car
+56,L.M. Ericsson,Europe,Sweden,NULL,Electrical and electronic
+57,Credit Suisse,Europe,Switzerland,NULL,Bank
+58,Nippon Telegraph & Telephone,Asia,Japan,NULL,Telecommunications
+59,Tokyo Electric Power,Asia,Japan,NULL,Electricity gas
+60,Sears Roebuck,America,United States,NULL,Retail
+61,Hyundai,Asia,Korea,NULL,Diversify
+62,General Motors,America,United States,NULL,Car
+63,BMW,Europe,Germany,NULL,Car
+64,Dai-ichi Mutual Life Insurance,Asia,Japan,NULL,Insurance
+65,SK,Asia,Korea,NULL,Oil refining
+66,Freddie Mac,America,United States,NULL,Finance
+67,Philip Morris,America,United States,NULL,Food tobacco
+68,Toshiba,Asia,Japan,NULL,Electrical and electronic
+69,Metro,Europe,Germany,NULL,Retail
+70,Chevron,America,United States,NULL,Oil refining
+71,Renault,Europe,France,NULL,Car
+72,Texaco,America,United States,NULL,Oil refining
+73,Samsung,Asia,Korea,NULL,Diversify
+74,Lucent Technologies,America,United States,NULL,Electrical and electronic
+75,China Construction Bank,Northern China,China,Beijing,Bank
+76,MiHoYo,Eastern China,China,Shanghai,Game
+77,Thyssen Krupp,Europe,Germany,NULL,Industrial and agricultural equipment
+78,ENI,Europe,Italy,NULL,Oil refining
+79,Nippon Life Insurance,Asia,Japan,NULL,Insurance
+80,Kmart,America,United States,NULL,Retail
+81,Royal Bank of Scotland,Europe,United Kingdom,NULL,Bank
+82,Verizon Communications,America,United States,NULL,Telecommunications
+83,Matsushita Electric Industrial,Asia,Japan,NULL,Electrical and electronic
+84,Bank of America Corp.,America,United States,NULL,Bank
+85,State Farm Insurance Cos.,America,United States,NULL,Insurance
+86,AXA,Europe,France,NULL,Insurance
+87,State Power Corporation,Northern China,China,Beijing,Electricity
+88,BT,Europe,United Kingdom,NULL,Telecommunications
+89,Pemex,America,Mexico,NULL,Crude
+90,McKesson HBOC,America,United States,NULL,Retail
+91,Mizuho Holdings,Asia,Japan,NULL,Bank
+92,Toyota Motor,Asia,Japan,NULL,Car
+93,Royal Dutch/Shell Group,Europe,Netherlands/United Kingdom,NULL,Oil refining
+94,Nortel Networks,America,Canada,NULL,Electrical and electronic
+95,Sumitomo,Asia,Japan,NULL,Diversify
+96,Prudential,Europe,United Kingdom,NULL,Insurance
+97,Xiaomi,Northern China,China,Beijing,Computer
+98,Conoco,America,United States,NULL,Oil refining
+99,American International Group,America,United States,NULL,Insurance
+100,Citigroup,America,United States,NULL,Finance
+101,WorldCom,America,United States,NULL,Telecommunications
+102,Ing Group,Europe,Netherlands,NULL,Insurance
+103,OPPO,Southern China,China,Dongguan,Computer
+104,General Electric,America,United States,NULL,Electrical and electronic
+105,Costco Wholesale,America,United States,NULL,Retail
+106,Allstate,America,United States,NULL,Insurance
+107,Meiji Life Insurance,Asia,Japan,NULL,Insurance
+108,Hitachi,Asia,Japan,NULL,Electrical and electronic
+109,PDVSA,America,Venezuela,NULL,Oil refining
+110,Netease,Southern China,China,Guangzhou,Internet
+111,Repsol YPF,Europe,Spain,NULL,Oil refining
+112,Deutsche Post,Europe,Germany,NULL,Postal parcels
+113,Mitsubishi,Asia,Japan,NULL,Diversify
+114,Sina,Northern China,China,Beijing,Internet
+115,TIAA-CREF,America,United States,NULL,Insurance
+116,Mitsubishi Electric,Asia,Japan,NULL,Electrical and electronic
+117,Compaq Computer,America,United States,NULL,Computer
+118,BP,Europe,United Kingdom,NULL,Oil refining
+119,Bilibili,Eastern China,China,Shanghai,Internet
+120,Carrefour,Europe,France,NULL,Retail
+121,USX,America,United States,NULL,Oil refining
+122,Sinopec,Northern China,China,Beijing,Petrochemical
+123,Merck,America,United States,NULL,Pharmaceutical
+124,AT&T,America,United States,NULL,Telecommunications
+125,Deutsche Telekom,Europe,Germany,NULL,Telecommunications
+126,Electricite De France,Europe,France,NULL,Electricity
+127,J.P. Morgan Chase,America,United States,NULL,Bank
+128,China Petroleum,Northern China,China,Beijing,Oil refining
+129,Intl. Business Machines,America,United States,NULL,Computer
+130,Ping An Insurance (Group) Company Of China,Southern China,China,Shenzhen,Insurance
+131,Itochu,Asia,Japan,NULL,Diversify
+132,China Merchants Bank,Southern China,China,Shenzhen,Bank
+133,MetLife,America,United States,NULL,Insurance
+134,Zurich Financial Services,Europe,Switzerland,NULL,Insurance
+135,Motorola,America,United States,NULL,Electrical and electronic
+136,Sony,Asia,Japan,NULL,Electrical and electronic
+137,UBS,Europe,Switzerland,NULL,Bank
+138,Intel,America,United States,NULL,Semiconductor
+139,Sumitomo Life Insurance,Asia,Japan,NULL,Insurance
+140,Merrill Lynch,America,United States,NULL,Securities brokerage
+141,U.S. Postal Service,America,United States,NULL,Postal parcels
+142,Fortis,Europe,Netherlands/Belgium,NULL,Insurance
+143,SBC Communications,America,United States,NULL,Telecommunications
+144,Boeing,America,United States,NULL,Aerospace
+145,Ingram Micro,America,United States,NULL,Retail
+146,Vivendi Universal,Europe,France,NULL,Amusement
+147,Bank Of China,Northern China,China,Beijing,Bank
+148,Wal-Mart Stores,America,United States,NULL,Retail
+149,Suez,Europe,France,NULL,Water
+150,China Electronics Technology Group Corporation,Northern China,China,Beijing,Electrical and electronic
+151,Crижdit Agricole,Europe,France,NULL,Bank
+152,Mitsui,Asia,Japan,NULL,Diversify
+153,Fiat,Europe,Italy,NULL,Car
+154,Assicurazioni Generali,Europe,Italy,NULL,Insurance
+155,E.I. du Pont de Nemours,America,United States,NULL,Chemistry
+156,E. ON,Europe,Germany,NULL,Diversify
+157,Huawei,Southern China,China,Shenzhen,Computer
+158,Siemens,Europe,Germany,NULL,Electrical and electronic
+159,Fujitsu,Asia,Japan,NULL,Computer
+160,Baidu,Northern China,China,Beijing,Internet
+161,Marubeni,Asia,Japan,NULL,Diversify
+162,Volkswagen,Europe,Germany,NULL,Car
+163,Nissan Motor,Asia,Japan,NULL,Car
+164,Alibaba,Eastern China,China,Hangzhou,Internet
+165,United Parcel Service,America,United States,NULL,Postal parcels
+166,Ford Motor,America,United States,NULL,Car
+167,France Tижlижcom,Europe,France,NULL,Telecommunications

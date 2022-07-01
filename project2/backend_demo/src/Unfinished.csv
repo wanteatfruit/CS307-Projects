@@ -1,0 +1,7 @@
+contract_num,enterprise,product_model,quantity,contract_manager,contract_date,estimated_delivery_date, lodgement_date,salesman_num,contract_type
+CSE0000500,Alibaba,DatabaseSoftwareO6,1,11711129,2022-05-22,2022-05-26,,11611508,Unfinished
+CSE0000500,Alibaba,DatabaseSoftwareO6,200,11711129,2022-05-22,2022-05-27,,12211417,Unfinished
+CSE0000500,Alibaba,DatabaseSoftwareO6,130,11711129,2022-05-22,2022-05-27,,11511825,Unfinished
+CSE0000501,Pinduoduo,PrintMediaL2,97,12011529,2022-04-28,2022-05-01,,12211105,Unfinished
+CSE0000502,Netease,AirConditioner71,200,12011529,2022-04-28,2022-05-02,,11412713,Unfinished
+CSE0000503,Mitsubishi Motors,MobileHardDisk72,100,12011529,2022-04-28,2022-05-02,,11911204,Unfinished

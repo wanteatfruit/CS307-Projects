@@ -1,0 +1,4 @@
+host = localhost
+database = contract_project
+user = checker
+password = 123456

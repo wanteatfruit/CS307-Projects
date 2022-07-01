@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/proxool-cglib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/postgresql-42.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/proxool-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
